@@ -1,4 +1,3 @@
-GitBook Example
+Introduction to Cryptography
 =======
-
-Welcome in your GitBook!
+> Notes from Columbia University class "COMS 4261: Introduction to Cryptography"
